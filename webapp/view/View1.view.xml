@@ -5,6 +5,7 @@
         <content>
         	<Button type="Accept" text="Download the Data"></Button>
         		<Button type="Reject" text="Download"></Button>
+        			<Button type="Reject" text="Button3"></Button>
         </content>
     </Page>
 </mvc:View>
