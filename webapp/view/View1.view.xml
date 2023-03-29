@@ -2,6 +2,8 @@
     xmlns:mvc="sap.ui.core.mvc" displayBlock="true"
     xmlns="sap.m">
     <Page id="mypageid" title="{i18n>title}">
-        <content></content>
+        <content>
+        	<Button type="Accept" text="Hit me"></Button>
+        </content>
     </Page>
 </mvc:View>
