@@ -4,6 +4,7 @@
     <Page id="mypageid" title="{i18n>title}">
         <content>
         	<Button type="Accept" text="Download the Data"></Button>
+        		<Button type="Reject" text="Download"></Button>
         </content>
     </Page>
 </mvc:View>
